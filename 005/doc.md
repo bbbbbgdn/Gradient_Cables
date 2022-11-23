@@ -2,12 +2,14 @@
 
 * __blackWhite__ ```Number```
 * __blurAmount__ ```Number```
+* __colorChangeEasing__ ```Number```
 * __displacePost__ ```Number```
 * __HD__ ```Number```
 * __mainColors__ ```Array```
 * __noiseAmount__ ```Number```
 * __plasmaSoft__ ```Number```
 * __pointSize__ ```Number```
+* __pointsNumber__ ```Number```
 * __pointSpread__ ```Number```
 * __pointsSpeed__ ```Number```
 * __Post__ ```Number```
