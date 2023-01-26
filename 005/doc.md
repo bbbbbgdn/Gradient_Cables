@@ -4,6 +4,8 @@
 * __blurAmount__ ```Number```
 * __colorChangeEasing__ ```Number```
 * __displacePost__ ```Number```
+* __EnableUi__ ```Number``` (default Value: `1`)
+* __FPSlimit__ ```Number``` (default Value: `10`)
 * __HD__ ```Number```
 * __mainColors__ ```Array```
 * __noiseAmount__ ```Number```
