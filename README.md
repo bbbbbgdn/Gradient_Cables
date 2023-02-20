@@ -15,4 +15,4 @@ https://bbbbbgdn.github.io/Gradient_Cables/009/
 
 `lightValue` to contol levels of lightness in range 0-1, where 0 is full colour, 1 is white, values below 0 gives more intense colour values.
 
-'noiseAmount' default is 0.04
+`noiseAmount` default is 0.04
