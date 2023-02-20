@@ -4,4 +4,5 @@
 * __colorsArrayRGB__ ```Array```
 * __lightValue__ ```Number``` (default Value: `0.3`)
 * __mainColors__ ```Array```
+* __noiseAmount__ ```Number``` (default Value: `0.04`)
 
